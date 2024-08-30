@@ -11,7 +11,7 @@ class Customers extends Component {
 
   componentDidMount() {
     // Sostituisci 'http://api.example.com' con il dominio fisso del tuo backend
-    const apiUrl = 'https://backtest-ktoflayq.daucu.site/api/customers';
+    const apiUrl = 'https://backtest-kedzwrpd.daucu.site/api/customers';
 
     fetch(apiUrl)
       .then(res => res.json())
